@@ -1,5 +1,7 @@
 # Import data
 from tensorflow.examples.tutorials.mnist import input_data
+#for test 
+import tensorflow as tf
 
 flags = tf.app.flags
 FLAGS = flags.FLAGS
